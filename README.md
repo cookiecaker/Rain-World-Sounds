@@ -2,7 +2,7 @@ All file names are unaltered from their raw versions, the only extra inclusions 
 
 Feel free to give feedback on the sorting and where files should be moved if necessary. 
 
-If you'd like to find where the sounds play in-game:
+If you'd like to find the sounds in-game:
 - Install devtools, Warp mod, and Beastmaster to navigate to the room or spawn the entity you'd like to find sounds for.
 - For regular sound effects, press O (activate devtools), I (show sound effect log), and U (reload sounds) to see a log of the sound effects currently playing.
 - For ambient sound effects, press O (activate devtools) and H (open room information) and click on "Sounds" to see sound objects placed in the room you're in.
